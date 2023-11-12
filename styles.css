@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+.bold {
+    font-weight: bold;
+    color: brown;
+}
+.grey {
+    color: grey;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+ul.navigation {
+    display: block;
+    padding: 0px;
+    list-style-type: none;
+}
+img.recipe {
+    width: 300px;
+    height: 300px;
+}
+ol {
+    list-style-type: upper-roman;
+}
